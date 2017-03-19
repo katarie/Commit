@@ -13,4 +13,5 @@ dans la console. Évidemment, faites bien attention quand vous utilisez ce racco
 Lorsque vous modifiez votre repository, vous devez demander à Git d'enregistrer vos modifications en faisant un git commit. L'option -m vous permet de lui envoyer un message décrivant les modifications effectuées
 Par exemple : 
 
-git commit -m "Ajouté ma checklist-vacances.md (woohoo!)"
+git commit -m "Ajouté ma checklist-vacances.md (woohoo!)" 
+git push origin master
